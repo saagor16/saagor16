@@ -1,42 +1,32 @@
-![I am harun181](https://github.com/harun181/harun181/blob/main/code.png)
+![I am saagor16](https://media.licdn.com/dms/image/D5616AQFbRu6XDQ04GA/profile-displaybackgroundimage-shrink_350_1400/0/1714658806695?e=1725494400&v=beta&t=p8yuesd3z46DUexFWhh41Vq2R0sz7OV-mcLpJJ_B9GY)
 
-<h1 align="center">Hi 👋, I'm HARUN UR ROSHID(Tutul)</h1>
-<h3 align="center">Programmer | Web Designer | Content Creator | Speed Learner</h3>
-<h4 align="center">Co-founder & Chief Operating Officer at Hablu Programmer</h4>
+<h1 align="center">Hi 👋, I'm SAGOR</h1>
+<h3 align="center">Web Developer|| React Developer || Front-end Developer</h3>
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=harun181&color=red)
+![Profile views](https://komarev.com/ghpvc/?username=saagor16&label=Profile%20views&color=0e75b6&style=flat)
 
-Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
+Skills:   REACT / JS / HTML / CSS  / tailwindcss
 
 </div>
 
-- 🔭 I’m currently working on [Hablu Programmer](https://www.hablu-programmer.com/)
 
-- 🌱 I’m currently learning Golang, Java, C++
+- 🌱 I’m currently learning **JS, PHP**,
 
-- 👨‍💻 All of my projects are available at [https://github.com/harun181](https://github.com/harun181)
+- 👨‍💻 All of my projects are available at [https://github.com/saagor16](https://github.com/saagor16)
 
-- 📝 I regularly write articles on [https://www.learnwithtutul.xyz/](https://www.learnwithtutul.xyz/)
+- 💬 Ask me about **HTML5, CSS3, JS, tailwindcss**
 
-- 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
+- 📫 How to reach me *saagor.16@gmail.com**
 
-- 📫 How to reach me **programmerharun@gmail.com**
-
-- 📄 All About Me:[https://lnk.bio/tutul181](https://lnk.bio/tutul181)
 
 <h3 align="left">Connect with me:</h3>
 
 <p align="center">
-<a href="https://fb.com/tutul181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tutul181" height="30" width="40" /></a>
-<a href="https://twitter.com/tutul181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tutul181" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/harun181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harun181" height="30" width="40" /></a>
-<a href="https://codepen.io/harun181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="harun181" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCttZMJCI9L9PbfJkQw7o-0Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Learn With Tutul" height="30" width="40" /></a>
-<a href="https://instagram.com/tutul_181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tutul_181" height="30" width="40" /></a>
-<a href="https://dribbble.com/harun181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="harun181" height="30" width="40" /></a>
-<a href="https://www.behance.net/harun181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="harun181" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=61551216816741" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saagor16" height="30" width="40" /></a>
+<a href="https://x.com/16Saagor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saagor16" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/saagor/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saagor16"height="30" width="40" /></a>
 </p>
 
 ## Use To Code
