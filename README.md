@@ -1,27 +1,20 @@
 ![I am saagor16](https://media.licdn.com/dms/image/D5616AQHfvCyZzF9h6A/profile-displaybackgroundimage-shrink_350_1400/0/1719755362557?e=1725494400&v=beta&t=Caltu6Uqne6gHN31--dFYwUKirYRaXohMZCpH69lSIk)
 
-
-
 <h1 align="center">Hi 👋, I'm SAGOR</h1>
 <h3 align="center">Web Developer || React Developer || Front-end Developer</h3>
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=saagor16&label=Profile%20views&color=brightgreen&style=flat-square" alt="saagor16" />
 </p>
 
-
-
-## :eyes: Current overview
+## 👀 Current overview
 
 - 🌱 I’m currently learning **JavaScript**
 - 👨‍💻 All of my projects are available at [https://github.com/saagor16](https://github.com/saagor16)
 - 💬 Ask me about **HTML5, CSS3, JS, Tailwind CSS**
-- 📫 How to reach me *saagor.16@gmail.com*
+- 📫 How to reach me: *saagor.16@gmail.com*
 
-
-
-## :mailbox: Reach me out
+## 📬 Reach me out
 
 <p align="center">
   <a href="https://x.com/16Saagor" target="_blank">
@@ -38,9 +31,7 @@
   </a>  
 </p>
 
-
-
-## :computer: Technologies that I know
+## 💻 Technologies that I know
 
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
@@ -75,10 +66,7 @@
   </a>
 </p>
 
-
-
-
-## :bar_chart: GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <a href="https://github.com/saagor16">
