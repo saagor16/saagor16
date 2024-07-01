@@ -1,32 +1,27 @@
 ![I am saagor16](https://media.licdn.com/dms/image/D5616AQHfvCyZzF9h6A/profile-displaybackgroundimage-shrink_350_1400/0/1719755362557?e=1725494400&v=beta&t=Caltu6Uqne6gHN31--dFYwUKirYRaXohMZCpH69lSIk)
 
 <h1 align="center">Hi 👋, I'm SAGOR</h1>
-<h3 align="center">Web Developer|| React Developer || Front-end Developer</h3>
+<h3 align="center">Web Developer || React Developer || Front-end Developer</h3>
 
 <div align="center">
 
 ![Profile views](https://komarev.com/ghpvc/?username=saagor16&label=Profile%20views&color=0e75b6&style=flat)
 
-Skills:   REACT / JS / HTML / CSS  / tailwindcss
+Skills: REACT / JS / HTML / CSS / Tailwind CSS
 
 </div>
 
-
-- 🌱 I’m currently learning **JS, PHP**,
-
+- 🌱 I’m currently learning **JS, PHP**
 - 👨‍💻 All of my projects are available at [https://github.com/saagor16](https://github.com/saagor16)
-
-- 💬 Ask me about **HTML5, CSS3, JS, tailwindcss**
-
-- 📫 How to reach me *saagor.16@gmail.com**
-
+- 💬 Ask me about **HTML5, CSS3, JS, Tailwind CSS**
+- 📫 How to reach me *saagor.16@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 
 <p align="center">
 <a href="https://www.facebook.com/profile.php?id=61551216816741" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saagor16" height="30" width="40" /></a>
 <a href="https://x.com/16Saagor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saagor16" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/saagor/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saagor16"height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/saagor/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saagor16" height="30" width="40" /></a>
 </p>
 
 ## Use To Code
@@ -50,7 +45,6 @@ Skills:   REACT / JS / HTML / CSS  / tailwindcss
 
 <br/>
 
-
 <p align="left">
   <a href="https://github.com/saagor16?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
@@ -68,14 +62,12 @@ Skills:   REACT / JS / HTML / CSS  / tailwindcss
 </p>
 
 <a> 
-    <a href="https://github.com/saagor16"><img alt="Harun's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=harun181&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/saagor16"><img alt="Sagor's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=saagor16&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <a href="https://github.com/saagor16"><img alt="Sagor's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=saagor16&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
-![Harun's Graph](https://github-readme-activity-graph.vercel.app/graph?username=saagor16&custom_title=Harun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-
-<br/>
+![Sagor's Graph](https://github-readme-activity-graph.vercel.app/graph?username=saagor16&custom_title=Sagor's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <br/>
 
@@ -89,7 +81,7 @@ Skills:   REACT / JS / HTML / CSS  / tailwindcss
 <a href="https://www.linkedin.com/in/saagor/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px; margin-right: 2px;" />
 </a>
-<a href="h[ttps://www.facebook.com/tutul181](https://www.facebook.com/profile.php?id=61551216816741)" target="_blank">
+<a href="https://www.facebook.com/profile.php?id=61551216816741" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px; margin-right: 2px;" />
 </a>  
 </div>
