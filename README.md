@@ -11,7 +11,7 @@ Skills: REACT / JS / HTML / CSS / Tailwind CSS
 
 </div>
 
-- 🌱 I’m currently learning **JS, PHP**
+- 🌱 I’m currently learning **JS**
 - 👨‍💻 All of my projects are available at [https://github.com/saagor16](https://github.com/saagor16)
 - 💬 Ask me about **HTML5, CSS3, JS, Tailwind CSS**
 - 📫 How to reach me *saagor.16@gmail.com*
