@@ -1,4 +1,4 @@
-![I am saagor16](https://media.licdn.com/dms/image/D5616AQFbRu6XDQ04GA/profile-displaybackgroundimage-shrink_350_1400/0/1714658806695?e=1725494400&v=beta&t=p8yuesd3z46DUexFWhh41Vq2R0sz7OV-mcLpJJ_B9GY)
+![I am saagor16](https://media.licdn.com/dms/image/D5616AQHfvCyZzF9h6A/profile-displaybackgroundimage-shrink_350_1400/0/1719755362557?e=1725494400&v=beta&t=Caltu6Uqne6gHN31--dFYwUKirYRaXohMZCpH69lSIk)
 
 <h1 align="center">Hi 👋, I'm SAGOR</h1>
 <h3 align="center">Web Developer|| React Developer || Front-end Developer</h3>
