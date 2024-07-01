@@ -4,7 +4,7 @@
 <h3 align="center">Web Developer || React Developer || Front-end Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saagor16&label=Profile%20views&color=0e75b6&style=flat" alt="saagor16" />
+  <img src="https://komarev.com/ghpvc/?username=saagor16&label=Profile%20views&color=brightgreen&style=flat-square" alt="saagor16" />
 </p>
 
 - 🌱 I’m currently learning **JavaScript**
