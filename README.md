@@ -1,20 +1,35 @@
 ![I am saagor16](https://media.licdn.com/dms/image/D5616AQHfvCyZzF9h6A/profile-displaybackgroundimage-shrink_350_1400/0/1719755362557?e=1725494400&v=beta&t=Caltu6Uqne6gHN31--dFYwUKirYRaXohMZCpH69lSIk)
 
+<br />
+
 <h1 align="center">Hi 👋, I'm SAGOR</h1>
+
+<br />
+
 <h3 align="center">Web Developer || React Developer || Front-end Developer</h3>
+
+<br />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=saagor16&label=Profile%20views&color=brightgreen&style=flat-square" alt="saagor16" />
 </p>
 
+<br />
+
 ## 👀 Current overview
+
+<br />
 
 - 🌱 I’m currently learning **JavaScript**
 - 👨‍💻 All of my projects are available at [https://github.com/saagor16](https://github.com/saagor16)
 - 💬 Ask me about **HTML5, CSS3, JS, Tailwind CSS**
 - 📫 How to reach me: *saagor.16@gmail.com*
+  
+<br />
 
 ## 📬 Reach me out
+
+<br />
 
 <p align="center">
   <a href="https://x.com/16Saagor" target="_blank">
@@ -31,7 +46,11 @@
   </a>  
 </p>
 
+<br />
+
 ## 💻 Technologies that I know
+
+<br />
 
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
@@ -66,13 +85,19 @@
   </a>
 </p>
 
+<br />
+
 ## 📊 GitHub Stats
+
+<br />
 
 <p align="center">
   <a href="https://github.com/saagor16">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saagor16&theme=radical" alt="Sagor's GitHub Contribution"/>
   </a>
 </p>
+
+<br />
 
 <p align="center">
   <a href="https://github.com/saagor16">
@@ -82,6 +107,8 @@
     <img alt="Sagor's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=saagor16&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
   </a>
 </p>
+
+<br />
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=saagor16&custom_title=Sagor's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="Sagor's GitHub Activity Graph"/>
