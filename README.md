@@ -7,6 +7,8 @@
   <img src="https://komarev.com/ghpvc/?username=saagor16&label=Profile%20views&color=brightgreen&style=flat-square" alt="saagor16" />
 </p>
 
+## :eyes: Current overview
+
 - 🌱 I’m currently learning **JavaScript**
 - 👨‍💻 All of my projects are available at [https://github.com/saagor16](https://github.com/saagor16)
 - 💬 Ask me about **HTML5, CSS3, JS, Tailwind CSS**
@@ -16,17 +18,17 @@
 
 <p align="center">
   <a href="https://x.com/16Saagor" target="_blank">
-    <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" width="40" height="40" />
+    <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" />
   </a>
   <a href="https://www.linkedin.com/in/saagor/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" width="40" height="40" />
+    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
   <a href="https://www.facebook.com/profile.php?id=61551216816741" target="_blank">
-    <img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" width="40" height="40" />
-  </a>
+    <img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" />
+  </a>  
   <a href="mailto:saagor.16@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" width="40" height="40" />
-  </a>
+    <img src="https://img.shields.io/badge/Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="gmail" />
+  </a>  
 </p>
 
 ## :computer: Technologies that I know
