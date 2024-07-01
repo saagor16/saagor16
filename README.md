@@ -7,7 +7,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=saagor16&label=Profile%20views&color=0e75b6&style=flat)
 
-Skills: REACT / JS / HTML / CSS / Tailwind CSS
+
 
 </div>
 
@@ -16,15 +16,23 @@ Skills: REACT / JS / HTML / CSS / Tailwind CSS
 - 💬 Ask me about **HTML5, CSS3, JS, Tailwind CSS**
 - 📫 How to reach me *saagor.16@gmail.com*
 
-<h3 align="left">Connect with me:</h3>
+## :mailbox: Reach me out
 
-<p align="center">
-<a href="https://www.facebook.com/profile.php?id=61551216816741" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saagor16" height="30" width="40" /></a>
-<a href="https://x.com/16Saagor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saagor16" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/saagor/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saagor16" height="30" width="40" /></a>
-</p>
+<div align="center">
+<br/>
+<a href="https://x.com/16Saagor" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px; margin-right: 2px;" />
+</a>
+<a href="https://www.linkedin.com/in/saagor/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px; margin-right: 2px;" />
+</a>
+<a href="https://www.facebook.com/profile.php?id=61551216816741" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px; margin-right: 2px;" />
+</a>  
+</div>
 
-## Use To Code
+
+## :computer: Technologies that I know
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -90,17 +98,4 @@ Skills: REACT / JS / HTML / CSS / Tailwind CSS
 
 <br/>
 
-## Connect with me
 
-<div align="center">
-<br/>
-<a href="https://x.com/16Saagor" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px; margin-right: 2px;" />
-</a>
-<a href="https://www.linkedin.com/in/saagor/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px; margin-right: 2px;" />
-</a>
-<a href="https://www.facebook.com/profile.php?id=61551216816741" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px; margin-right: 2px;" />
-</a>  
-</div>
