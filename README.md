@@ -1,14 +1,15 @@
 ![I am saagor16](https://media.licdn.com/dms/image/D5616AQHfvCyZzF9h6A/profile-displaybackgroundimage-shrink_350_1400/0/1719755362557?e=1725494400&v=beta&t=Caltu6Uqne6gHN31--dFYwUKirYRaXohMZCpH69lSIk)
 
+<p>
+  <img src="https://komarev.com/ghpvc/?username=saagor16&label=Profile%20views&color=brightgreen&style=flat-square" alt="saagor16" />
+</p>
 <br />
 
 <h1 align="center">Hi 👋, I'm SAGOR</h1>
 
 <h3 align="center">Front-end Developer</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saagor16&label=Profile%20views&color=brightgreen&style=flat-square" alt="saagor16" />
-</p>
+
 
 <br />
 
