@@ -1,5 +1,4 @@
 ![I am saagor16](https://media.licdn.com/dms/image/D5616AQHfvCyZzF9h6A/profile-displaybackgroundimage-shrink_350_1400/0/1719755362557?e=1725494400&v=beta&t=Caltu6Uqne6gHN31--dFYwUKirYRaXohMZCpH69lSIk)
-
 <p>
   <img src="https://komarev.com/ghpvc/?username=saagor16&label=Profile%20views&color=brightgreen&style=flat-square" alt="saagor16" />
 </p>
@@ -8,6 +7,11 @@
 <h1 align="center">Hi 👋, I'm SAGOR</h1>
 
 <h3 align="center">Front-end Developer</h3>
+## :chart_with_upwards_trend: Current Stats
+<br />
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=saagor16&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=7F3FBF&sideLabels=00F0FF&currStreakNum=7F3FBF&ring=7F3FBF&currStreakLabel=7F3FBF&sideNums=00F0FF" />
+</p>
 
 
 
@@ -84,10 +88,7 @@
 
 ## 📊 GitHub Stats
 
-<br />
-<p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=saagor16&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=7F3FBF&sideLabels=00F0FF&currStreakNum=7F3FBF&ring=7F3FBF&currStreakLabel=7F3FBF&sideNums=00F0FF" />
-</p>
+
 
 <br />
 
