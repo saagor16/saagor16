@@ -3,11 +3,13 @@
 <span align="left">
   <img src="https://komarev.com/ghpvc/?username=saagor16&label=Profile%20views&color=brightgreen&style=flat-square" alt="saagor16" />
 </span>
+
 <br />
 <h1 align="center">Hi 👋, I'm SAGOR</h1>
 <h3 align="center">A passionate Front-end Developer from Bangladesh
 </h3>
 <br />
+
 ## 👀 Current overview
 
 #### - 🌱 I’m currently learning **JavaScript**
