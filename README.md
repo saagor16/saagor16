@@ -87,7 +87,7 @@
 
 <br />
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=saagor16&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=7F3FBF&currStreakLabel=7F3FBF&sideNums=00F0FF" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=saagor16&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=7F3FBF&sideLabels=00F0FF&currStreakNum=7F3FBF&ring=7F3FBF&currStreakLabel=7F3FBF&sideNums=00F0FF" />
 </p>
 
 <br />
