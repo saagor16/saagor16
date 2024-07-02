@@ -6,7 +6,7 @@
 
 
 
-<h3 align="center">Web Developer || React Developer || Front-end Developer</h3>
+<h3 align="center">Front-end Developer</h3>
 
 
 
@@ -20,10 +20,10 @@
 
 <br />
 
-- 🌱 I’m currently learning **JavaScript**
-- 👨‍💻 All of my projects are available at [https://github.com/saagor16](https://github.com/saagor16)
-- 💬 Ask me about **HTML5, CSS3, JS, Tailwind CSS**
-- 📫 How to reach me: *saagor.16@gmail.com*
+####- 🌱 I’m currently learning **JavaScript**
+####- 👨‍💻 All of my projects are available at [https://github.com/saagor16](https://github.com/saagor16)
+####- 💬 Ask me about **HTML5, CSS3, JS, Tailwind CSS**
+####- 📫 How to reach me: *saagor.16@gmail.com*
   
 <br />
 
@@ -95,6 +95,11 @@
   <a href="https://github.com/saagor16">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saagor16&theme=radical" alt="Sagor's GitHub Contribution"/>
   </a>
+</p>
+
+<br />
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=saagor16&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
 </p>
 
 <br />
