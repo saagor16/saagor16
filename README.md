@@ -11,10 +11,6 @@
 </h3>
 <br />
 
-
-
-<br />
-
 ## 👀 Current overview
 
 #### - 🌱 I’m currently learning **JavaScript**
