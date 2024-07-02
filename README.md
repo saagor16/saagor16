@@ -7,7 +7,8 @@
 
 <h1 align="center">Hi 👋, I'm SAGOR</h1>
 
-<h3 align="center">Front-end Developer</h3>
+<h3 align="center">A passionate Front-end Developer from Bangladesh
+</h3>
 <br />
 
 
