@@ -4,11 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm SAGOR</h1>
 
-
-
 <h3 align="center">Front-end Developer</h3>
-
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=saagor16&label=Profile%20views&color=brightgreen&style=flat-square" alt="saagor16" />
@@ -20,11 +16,11 @@
 
 <br />
 
-####- 🌱 I’m currently learning **JavaScript**
-####- 👨‍💻 All of my projects are available at [https://github.com/saagor16](https://github.com/saagor16)
-####- 💬 Ask me about **HTML5, CSS3, JS, Tailwind CSS**
-####- 📫 How to reach me: *saagor.16@gmail.com*
-  
+#### - 🌱 I’m currently learning **JavaScript**
+#### - 👨‍💻 All of my projects are available at [https://github.com/saagor16](https://github.com/saagor16)
+#### - 💬 Ask me about **HTML5, CSS3, JS, Tailwind CSS**
+#### - 📫 How to reach me: *saagor.16@gmail.com*
+
 <br />
 
 ## 📬 Reach me out
@@ -60,25 +56,25 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   </a>
   <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000" alt="Tailwind CSS" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   </a>
   <a href="https://getbootstrap.com/" target="_blank">
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F" alt="Javascript" />
+    <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript" />
   </a>
   <a href="https://reactjs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB" alt="React" />
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   </a>
   <a href="https://expressjs.com/" target="_blank">
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
   </a>
   <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   </a>
   <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
+    <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
   </a>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
