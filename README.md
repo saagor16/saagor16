@@ -14,8 +14,6 @@
 
 ## 👀 Current overview
 
-<br />
-
 #### - 🌱 I’m currently learning **JavaScript**
 #### - 👨‍💻 All of my projects are available at [https://github.com/saagor16](https://github.com/saagor16)
 #### - 💬 Ask me about **HTML5, CSS3, JS, Tailwind CSS**
