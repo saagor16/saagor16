@@ -8,7 +8,7 @@
 
 <h3 align="center">Front-end Developer</h3>
 <br />
-##📫 Current Stats
+## 📫 Current Stats
 <br />
 <p align="center">
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=saagor16&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=7F3FBF&sideLabels=00F0FF&currStreakNum=7F3FBF&ring=7F3FBF&currStreakLabel=7F3FBF&sideNums=00F0FF" />
